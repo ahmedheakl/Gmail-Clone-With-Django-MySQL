@@ -19,6 +19,6 @@ This a single-application (named _mail_) project implemented using django framew
 Here are some samples for mail sending and receiving process:
 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/ahmedheakl/Gmail-Clone-With-Django-MySQL/blob/main/imgs/Composing%20Sample.png">
-  <img width="500" height="300" src="https://github.com/ahmedheakl/Gmail-Clone-With-Django-MySQL/blob/main/imgs/Email%20Sample.png">
+  <img width="400" height="300" src="https://github.com/ahmedheakl/Gmail-Clone-With-Django-MySQL/blob/main/imgs/Composing%20Sample.png">
+  <img width="400" height="300" src="https://github.com/ahmedheakl/Gmail-Clone-With-Django-MySQL/blob/main/imgs/Email%20Sample.png">
 </p>
